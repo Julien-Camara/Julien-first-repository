@@ -1,0 +1,1 @@
+alert('je vous salue tous !')
